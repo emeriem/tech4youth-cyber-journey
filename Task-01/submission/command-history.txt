@@ -1,0 +1,5 @@
+[PASTE COMMAND HISTORY HERE]
+
+Instructions: Run `history` as agent007 after completing all phases, or copy
+your .bash_history contents, and paste the real output here, replacing this
+placeholder. Do not fabricate command output.

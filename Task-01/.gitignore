@@ -1,0 +1,15 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+
+# NOTE: evidence/ and submission/ contents are intentionally NOT ignored —
+# they are required deliverables for this task.

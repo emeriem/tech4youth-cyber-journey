@@ -1,0 +1,5 @@
+[PASTE ls -laR /home/agent007/mission/ OUTPUT HERE]
+
+Instructions: Run `ls -laR ~/mission` as agent007 after completing all phases,
+and paste the real output here, replacing this placeholder. Do not fabricate
+directory listings or permissions.
