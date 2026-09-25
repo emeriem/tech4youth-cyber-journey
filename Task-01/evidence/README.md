@@ -18,12 +18,6 @@ work through `workflow/workflow.md`, and place them here.
 | `08-ownership-change.png` | Phase 8 | `ls -l` showing new owner + read/write test results | Understanding of `chown` vs `chmod` |
 | `09-final-directory-structure.png` | Phase 9 | Full `ls -laR ~/mission` output | Final complete state of the workspace |
 
-## Terminal Output (`terminal-output/`)
-
-Optional but recommended: save raw text copies (not just screenshots) of any
-command output you may want to reference later or paste directly into your
-submission — particularly the Phase 9 final listing and full command history.
-
 ## Notes
 
 - Do not fabricate or reuse screenshots from a different run — each should reflect

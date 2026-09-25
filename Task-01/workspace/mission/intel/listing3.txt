@@ -1,0 +1,9 @@
+total 16
+drwxrwxr-x 2 agent007 agent007 4096 Sep 25 02:26 .
+drwxrwxr-x 4 agent007 agent007 4096 Sep 24 19:20 ..
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 02:24 keys.txt
+-rw-rw-r-- 1 agent007 agent007   45 Sep 25 02:26 listing1.txt
+-rw-rw-r-- 1 agent007 agent007  301 Sep 25 02:26 listing2.txt
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 02:26 listing3.txt
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 02:24 routes.txt
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 02:24 targtes.txt

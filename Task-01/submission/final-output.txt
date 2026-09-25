@@ -3,3 +3,31 @@
 Instructions: Run `ls -laR ~/mission` as agent007 after completing all phases,
 and paste the real output here, replacing this placeholder. Do not fabricate
 directory listings or permissions.
+/home/agent007/mission:
+total 16
+drwxrwxr-x 4 agent007 agent007 4096 Sep 24 19:20 .
+drwx------ 6 agent007 agent007 4096 Sep 25 03:34 ..
+drwxrwxr-x 2 agent007 agent007 4096 Sep 25 03:24 intel
+drwxrwxr-x 3 agent007 agent007 4096 Sep 25 02:15 ops
+
+/home/agent007/mission/intel:
+total 20
+drwxrwxr-x 2 agent007 agent007 4096 Sep 25 03:24 .
+drwxrwxr-x 4 agent007 agent007 4096 Sep 24 19:20 ..
+-rw-rw-r-- 1 agent007 agent007   45 Sep 25 02:26 listing1.txt
+-rw-rw-r-- 1 agent007 agent007  301 Sep 25 02:26 listing2.txt
+-rw-rw-r-- 1 agent007 agent007  477 Sep 25 02:26 listing3.txt
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 02:24 routes.txt
+-rw-r----- 1 root     agent007    0 Sep 25 02:24 targtes.txt
+
+/home/agent007/mission/ops:
+total 12
+drwxrwxr-x 3 agent007 agent007 4096 Sep 25 02:15 .
+drwxrwxr-x 4 agent007 agent007 4096 Sep 24 19:20 ..
+drwxrwxr-x 2 agent007 agent007 4096 Sep 25 03:04 backup
+
+/home/agent007/mission/ops/backup:
+total 8
+drwxrwxr-x 2 agent007 agent007 4096 Sep 25 03:04 .
+drwxrwxr-x 3 agent007 agent007 4096 Sep 25 02:15 ..
+-rw-rw-r-- 1 agent007 agent007    0 Sep 25 03:04 routes.txt

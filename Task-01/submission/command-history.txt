@@ -1,5 +1,65 @@
-[PASTE COMMAND HISTORY HERE]
-
-Instructions: Run `history` as agent007 after completing all phases, or copy
-your .bash_history contents, and paste the real output here, replacing this
-placeholder. Do not fabricate command output.
+    1  history > commands_used.txt
+    1  history > commands_used.txt
+    2  clear
+    3  pwd
+    4  mkdir mission
+    5  pwd
+    6  cd mission
+    7  pwd
+    8  mkdir intel ops
+    9  cd ops
+   10  mkdir backup
+   11  tree ~
+   12  tree ~ > tree_output
+   13  ls
+   14  rm tree_output
+   15  cd home
+   16  cd ~
+   17  tree ~ > tree_output
+   18  ls
+   19  tree
+   20  cd home/agent007/mission/intel
+   21  cd /home
+   22  cd mission/intel
+   23  cd mission /intel
+   24  ls
+   25  cd agent007/mission/intel
+   26  ls
+   27  pwd
+   28  touch targtes.txt routes.txt keys.txt
+   29  ls
+   30  ls > listing1.txt
+   31  ls -l > listing2.txt
+   32  ls -la > listing3.txt
+   33  ls
+   34  find ~ -type d -name backup
+   35  cp routes.txt  /home/agent007/mission/ops/backup
+   36  ls /home/agent007/mission/ops/backup
+   37  ls
+   38  rm keys.txt
+   39  ls
+   40  ls -l targets.txt
+   41  ls
+   42  ls -l targtes.txt
+   43  chmod 640 targtes.txt
+   44  ls -l targtes.txt
+   45  pwd
+   46  tree ~
+   47  rm /home/agent007/mission/ops/backup/routes.txt
+   48  ls /home/agent007/mission/ops/backup
+   49  ls
+   50  cp routes.txt  /home/agent007/mission/ops/backup
+   51  tree ~
+   52  history >> commands_used.txt
+   53  ls
+   54  tree ~
+   55  rm commands_used.txt
+   56  cd ~
+   57  ls
+    1  ls -l
+    2  nano targtes.txt
+    3  history
+    4  cd ~
+    5  ls
+    6  history commands_used.txt
+    7  ls
